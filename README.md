@@ -9,9 +9,11 @@ Contents
 How to Use This Repository
 Feel free to explore each folder to check out the covered topics and solved exercises. Contributions and discussions are welcome!
 
+
 Technologies
 JavaScript (ES6+)
 Node.js (optional
+
 
 Contact
 If you have suggestions or want to discuss any concept, let’s connect! 🚀
